@@ -1,2 +1,3 @@
 # js-debug-to-do-list
-Created with CodeSandbox
+A class project.
+A buggy to do list created in JavaScript, debugged using the console.
